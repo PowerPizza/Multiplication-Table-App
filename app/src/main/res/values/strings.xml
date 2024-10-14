@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multiplication Table</string>
+    <string name="hint_enter_number">Enter number here…</string>
+    <string name="output_default_text">No output to show…</string>
+</resources>
